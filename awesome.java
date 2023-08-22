@@ -2,7 +2,8 @@ public class awesome
 {
   public static void main(String[]args)
   {
-    System.out.println("lets start together");
+     String name = "babu";
+    System.out.println("Name :"+name);
     }
 }
   
